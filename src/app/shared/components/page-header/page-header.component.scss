@@ -1,0 +1,15 @@
+mat-toolbar {
+    .spacer {
+      flex: 1 1 auto;
+    }
+  
+    .user-info {
+      display: flex;
+      align-items: center;
+    }
+  
+    .user-info button {
+      margin-left: 1.5rem; /* Apply margin to buttons */
+    }
+  }
+  
